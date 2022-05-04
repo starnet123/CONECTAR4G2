@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
+  "Version": "1.0.4",
+  "ReleaseNotes": "TESTE",
   "UrlUpdate": "https://kiritosshxd.github.io/Conecta4g_site/UrlUpdate",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -35,15 +35,6 @@
       "PASS": ""
     },
     {
-      "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "premium02.conecta4g.xyz",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "teste006",
-      "PASS": "1234"
-    }
   ],
   "Networks": [
     {
